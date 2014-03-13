@@ -1,0 +1,9 @@
+main: com.hotmail.fabiansandberg98.CustomBroadcast
+name: CustomBroadcast
+version: '1.0'
+database: false
+description: >
+             Easy custom broadcaster
+commands:
+ broadcast:
+  description: Broadcasts your message
